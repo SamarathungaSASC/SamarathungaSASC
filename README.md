@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeepa</h1>
-<div style="display: flex; flex-direction: column; align-items:center;">
+<div style="text-align: justify;">
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   </div>
 
