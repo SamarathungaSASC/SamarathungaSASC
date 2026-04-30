@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, It's <a href="https://github.com/SamarathungaSASC">Sandeepa</a> 👋😉</h1>
+<h1 align="center">Hi there, It's <a href="https://github.com/SamarathungaSASC">Sandeepa</a> 👋</h1>
 <!-- About Me -->
   <h2 align="center">About Me</h2>
 <p align="center"> <em> Database admin who love to work with linux <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1f1-1f1f0.svg" alt="Google (Noto Color Emoji - Unicode 15.1)" styles="border-radius:25px"width="23" height="23">
